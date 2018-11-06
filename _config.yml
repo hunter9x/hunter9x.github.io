@@ -85,7 +85,7 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-merlot
 
 # Set timezone
 timezone: Asia/Tokyo
